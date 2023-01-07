@@ -53,6 +53,6 @@
             </div>
         </div>
         <hr class="m-0 mt-2">
-        <p class="py-1 m-0 text-center text-white">&copy 2022 Copyrigth mercatus africa</p>
+        <p class="py-1 m-0 text-center text-white">Copyright &copy; 2022 Koffi Samuel LOUMON</p>
     </div>
 </footer>
